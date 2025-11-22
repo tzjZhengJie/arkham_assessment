@@ -19,12 +19,6 @@ Designed for the Arkham take-home challenge, the notebook uses **only Arkham API
 
 ---
 
-## Requirements
-- **Python:** 3.8+  
-- **Libraries:** `requests`, `json`, `pprint`, `pyspark`  
-  ```bash
-  pip install requests pyspark
-
 ## Token used
 | Token Name     | Symbol | Solana Chain Address                         |
 | -------------- | ------ | -------------------------------------------- |
