@@ -24,7 +24,8 @@ Designed for the Arkham take-home challenge, the notebook uses **only Arkham API
 - **Libraries:** `requests`, `json`, `pprint`, `pyspark`  
   ```bash
   pip install requests pyspark
-  
+
+## Token used
 | Token Name     | Symbol | Solana Chain Address                         |
 | -------------- | ------ | -------------------------------------------- |
 | Jupiter        | JUP    | JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN  |
